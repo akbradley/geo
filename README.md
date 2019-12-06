@@ -3,4 +3,4 @@ geology
 igneous
 metamorphic
 sedimentry
-just part of the learning process
+ / just part of the learning process
